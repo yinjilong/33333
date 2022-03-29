@@ -16,7 +16,6 @@ A math quiz newpaper for elementary school
 
 
 found solution: 
-<font color='white'>
-41286 
-7953
-</font>
+```diff
+@@ 41286  7953 @@
+```

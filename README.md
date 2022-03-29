@@ -15,4 +15,8 @@ A math quiz newpaper for elementary school
 ```
 
 
-found solution: 41286 7953
+found solution: 
+<font color='white'>
+41286 
+7953
+</font>

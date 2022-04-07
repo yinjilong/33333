@@ -1,5 +1,5 @@
 # 33333
-A math quiz newpaper for elementary school
+A math quiz for elementary school students
 
 
 ```
@@ -9,7 +9,7 @@ A math quiz newpaper for elementary school
    3  3  3  3   3
 
  where
-  b1 = 1
+  b1 = 3
   a1~a5,b2~b4 in [1,2,4,5,6,7,8,9] can not be duplicated
 
 ```
